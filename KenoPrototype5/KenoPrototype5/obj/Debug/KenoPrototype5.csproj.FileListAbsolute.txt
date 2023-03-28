@@ -1,0 +1,14 @@
+C:\Users\Professional\source\repos\KenoPrototype5\KenoPrototype5\bin\Debug\KenoPrototype5.exe.config
+C:\Users\Professional\source\repos\KenoPrototype5\KenoPrototype5\bin\Debug\KenoPrototype5.exe
+C:\Users\Professional\source\repos\KenoPrototype5\KenoPrototype5\bin\Debug\KenoPrototype5.pdb
+C:\Users\Professional\source\repos\KenoPrototype5\KenoPrototype5\obj\Debug\KenoPrototype5.csproj.CoreCompileInputs.cache
+C:\Users\Professional\source\repos\KenoPrototype5\KenoPrototype5\obj\Debug\KenoPrototype5.exe
+C:\Users\Professional\source\repos\KenoPrototype5\KenoPrototype5\obj\Debug\KenoPrototype5.pdb
+C:\Users\Professional\source\repos\KenoPrototype5\KenoPrototype5\obj\Debug\KenoPrototype5.csprojAssemblyReference.cache
+C:\Users\Professional\Desktop\КЕНО\Топ Прога\KenoPrototype5\KenoPrototype5\bin\Debug\KenoPrototype5.exe.config
+C:\Users\Professional\Desktop\КЕНО\Топ Прога\KenoPrototype5\KenoPrototype5\bin\Debug\KenoPrototype5.exe
+C:\Users\Professional\Desktop\КЕНО\Топ Прога\KenoPrototype5\KenoPrototype5\bin\Debug\KenoPrototype5.pdb
+C:\Users\Professional\Desktop\КЕНО\Топ Прога\KenoPrototype5\KenoPrototype5\obj\Debug\KenoPrototype5.csprojAssemblyReference.cache
+C:\Users\Professional\Desktop\КЕНО\Топ Прога\KenoPrototype5\KenoPrototype5\obj\Debug\KenoPrototype5.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Desktop\КЕНО\Топ Прога\KenoPrototype5\KenoPrototype5\obj\Debug\KenoPrototype5.exe
+C:\Users\Professional\Desktop\КЕНО\Топ Прога\KenoPrototype5\KenoPrototype5\obj\Debug\KenoPrototype5.pdb
